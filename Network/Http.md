@@ -201,7 +201,7 @@ Location: /members/100
     - 주문 -> 결제완료 -> 배달 시작 -> 배달완료
 - 다른 메서드로 처리하기 애매한 경우
 
-![img1.daumcdn.png](4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%2071479ea41b924cf88a918a8b64a53de9/img1.daumcdn%204.png)
+![Get_Postpng](https://github.com/user-attachments/assets/847777f3-3638-47b8-a7cc-398595a08101)
 
 ### **PUT**
 
